@@ -22,7 +22,7 @@ const AppCard = () => {
 
         <div className="px-8">
           <div className="text-light text-stone-400 text-2xl font-normal pb-8">
-          <span>&ldquo;I specialize in application development using Swift and Kotlin, capable of crafting efficient and user-friendly iOS and Android apps.&rdquo;</span></div>
+          <span>`&ldquo;`I specialize in application development using Swift and Kotlin, capable of crafting efficient and user-friendly iOS and Android apps.`&rdquo;`</span></div>
         </div>
       </div>
 
