@@ -17,7 +17,7 @@ const SoftwareCard = () => {
 
         <div className="px-8">
           <div className="text-light text-stone-400 text-2xl font-normal pb-8">
-          I have experience in software development using TypeScript, GoLang, and C++, and I can use them to build high-quality, scalable applications.
+          <span>&quot;I have experience in software development using TypeScript, GoLang, and C++, and I can use them to build high-quality, scalable applications.&quot;</span>
           </div>
         </div>
       </div>
