@@ -41,7 +41,7 @@ const CertScroll = () => {
           src={cert}
           alt={`Certificate`}
           height={400}
-          width={400}
+          width={400} 
           className="shadow-gold transition hover:scale-125 hover:shadow-none hover:duration-500 mx-16 my-10"
         />
       ))}
