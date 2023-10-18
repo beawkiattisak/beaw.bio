@@ -4,7 +4,7 @@ import SkillComponent from './SkillComponent';
 
 const Skill = () => {
   return (
-    <div>
+    <div className="">
       <SkillComponent /> {/* Use the Background component here */}
     </div>
   );
