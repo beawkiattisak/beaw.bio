@@ -12,7 +12,7 @@ const NameText = () => {
 
           
           <div className="text-6xl md:text-9xl font-bold font-mono italic">
-            " Beaw "
+            <span>" Beaw "</span>
           </div>
 
 
