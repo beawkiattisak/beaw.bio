@@ -5,6 +5,8 @@ import Image from 'next/image';
 import logoSchool from '../../public/Logo.png';
 import Link from 'next/link';
 
+const schoolLogo = 'https://cdn.discordapp.com/attachments/1164170305158258728/1164170598478520382/Logo.png?ex=65423d5b&is=652fc85b&hm=2dcb0bbcdc849de083fd2bcaa86f8a3e3f8378a420a8e008297f7545055e5cf6&';
+
 const EducationFade = () => {
   const [scrollY, setScrollY] = useState(0);
   const controls = useAnimation();
@@ -43,7 +45,7 @@ const EducationFade = () => {
               width={300}
               height={300}
               className="mb-4 md:mb-6 lg:mb-8 hover:scale-110 transform duration-500 ease-in-out "
-              src={logoSchool}
+              src={schoolLogo}
               alt="School Logo"
             />
             </Link>
