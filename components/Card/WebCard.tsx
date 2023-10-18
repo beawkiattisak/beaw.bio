@@ -21,7 +21,7 @@ const WebCard = () => {
 
         <div className="px-8">
           <div className="text-light text-stone-400 text-2xl font-normal pb-16">
-          <span>&quot;I have experience with web development using TypeScript and Next.js, as well as backend development with NestJS and GoLang.&quot;</span>
+          <span>&quot;</span><span>I have experience with web development using TypeScript and Next.js, as well as backend development with NestJS and GoLang.</span><span>&quot;</span>
           </div>
         </div>
       </div>
