@@ -5,20 +5,20 @@ const NameText = () => {
   return (      
       <div className="flex justify-center items-center h-screen">
         <div className="text-center">
-          <div className="text-6xl md:text-9xl font-mono font-bold">
+          <div className="text-6xl md:text-8xl font-mono font-bold">
             Kiattisak
           </div>
 
 
           
 
-          <div className="text-6xl md:text-9xl font-bold font-mono italic">
+          <div className="text-6xl md:text-8xl font-bold font-mono italic">
             <span>&quot; Beaw &quot;</span>
           </div>
 
 
 
-          <div className="text-6xl md:text-9xl font-mono font-bold">
+          <div className="text-6xl md:text-8xl font-mono font-bold">
             Sanburee
           </div>
         </div>
