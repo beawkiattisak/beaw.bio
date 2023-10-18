@@ -1,4 +1,4 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {}
-
-module.exports = nextConfig
+module.exports = {
+    pageExtensions: ['js', 'jsx', 'ts', 'tsx', 'mdx'], // Add the file extensions you need
+  };
