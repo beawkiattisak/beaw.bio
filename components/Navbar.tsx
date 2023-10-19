@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className="px-4 md:px-32 pt-8">
       <div className="flex items-center justify-between">
-        <div className="text-shadow-2xl text-bold text-4xl md:text-5xl font-mono font-bold">
+        <div className="text-white text-shadow-2xl text-bold text-4xl md:text-5xl font-mono font-bold">
           <Link href="/">
             beaw.bio
             </Link>
