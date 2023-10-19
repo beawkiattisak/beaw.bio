@@ -6,7 +6,7 @@ import { motion } from "framer-motion"
 
 const SkillCard = () => {
   return (
-    <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-3 md:gap-8 gap-32">
+    <div className="grid grid-cols-1 lg:grid-cols-3 xl:grid-cols-3 md:gap-8 gap-8">
       <div className="transition duration-500 hover:scale-110">
         <div className="mx-auto flex justify-center items-center scale-75 lg:scale-100">
           <WebCard />

@@ -4,7 +4,7 @@ import EducationFade from './EducationFade';
 
 const Education = () => {
   return (
-    <div className="h-screen bg-gray-100 bg-cover bg-center flex flex-col justify-center items-center">
+    <div className="min-h-screen bg-gray-100 bg-cover bg-center flex flex-col justify-center items-center">
       <EducationAnimation />
       <div className="px-32">
         <EducationFade />
