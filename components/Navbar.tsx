@@ -13,10 +13,10 @@ const Navbar = () => {
         <div className="hidden md:flex justify-end content-center">
           <div className="bg-white text-black w-48 rounded-full text-center h-12 hover:bg-gray-300 hover:scale-110 transition duration-300">
             <Link
-            href="http://github.com/beawkiattisak"
+            href="https://www.linkedin.com/in/kiattisakbeaw/"
             >
               <button className="flex items-center justify-center h-full w-full">
-                <p className="text-lg font-semibold">GitHub</p>
+                <p className="text-lg font-semibold">LinkedIn</p>
               </button>
             </Link>
           </div>
