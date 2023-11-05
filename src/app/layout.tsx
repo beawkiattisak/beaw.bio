@@ -5,7 +5,7 @@ import { Inter } from 'next/font/google';
 const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
-  title: 'beaw.bio',
+  title: 'Kiattisak (Beaw) Sanburee | Portfolio Website',
   description: 'Kiattisak Sanburee Portfolio Website',
 };
 
